@@ -1,0 +1,21 @@
+.Model{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 38px;
+  margin-top: 0px;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-bottom: 0px;
+}
+
+.Order{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+
+.Touchless-delivery{
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: underline;
+}
